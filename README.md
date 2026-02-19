@@ -1,6 +1,15 @@
 # SearchBar & SearchAnchor — Widget Presentation
    DESCRIPTION:  A little functional app which demostrates how the "searchbar" and SearchAnchor widget works by allow user to tap, search and select from a list  of fruit and other names.
+
+
+   
 <img width="654" height="908" alt="image" src="https://github.com/user-attachments/assets/bf873e0a-a861-4877-96fc-1909c7a05cbe" />
+
+
+
+
+
+<img width="699" height="908" alt="image" src="https://github.com/user-attachments/assets/89f63d5e-998b-4c87-9af1-bfea7e4aef59" />
 
 ---
 ## How to run
